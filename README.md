@@ -155,6 +155,5 @@ No known bugs at this time.
 
 ## Authors
 Ikechukwu Alisigwe
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
